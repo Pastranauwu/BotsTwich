@@ -1,0 +1,4 @@
+speechrecognition
+requests
+pyttsx3
+pyaudio

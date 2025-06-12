@@ -14,7 +14,19 @@ Este proyecto implementa un asistente de voz que utiliza reconocimiento de voz, 
 2. Instala las dependencias ejecutando:
 
 
+"pip install -r requeriments.txt"
+
 Asegúra que Ollama esté corriendo en `http://localhost:11434` y que el modelo esté descargado.
+
+Para utilizar la API de Ollama:
+
+- Inicia el servidor ejecutando:  
+    `ollama serve`
+- Descarga el modelo necesario con:  
+    `ollama pull <nombre_del_modelo>`
+
+Asegúrate de que el servidor esté en funcionamiento antes de ejecutar el asistente.
+
 
 ## Uso
 
