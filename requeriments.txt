@@ -1,4 +1,6 @@
-speechrecognition
+SpeechRecognition
 requests
-pyttsx3
+pygame
+python-dotenv
 pyaudio
+azure-cognitiveservices-speech
